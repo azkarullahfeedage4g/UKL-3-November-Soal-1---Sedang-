@@ -9,5 +9,5 @@ Selanjutnya, program menjalankan perulangan menggunakan for mulai dari angka 1 h
 Pada setiap langkah perulangan, variabel dikalikan dengan nilai i, yaitu angka yang sedang dihitung pada putaran tersebut.
 Dengan begitu, nilai hasil akan terus bertambah besar mengikuti proses faktorial, misalnya untuk input 5 maka program akan menghitung 1 × 2 × 3 × 4 × 5 dan menghasilkan 120.
 Setelah perulangan selesai, program akan menampilkan hasil akhir faktorial ke layar dengan perintah sout
-<img src=<img width="1346" height="217" alt="image" src="https://github.com/user-attachments/assets/12b7871d-9b0b-4621-be62-020b7c9ed80f" />
+<img src=<img width="1467" height="985" alt="image" src="https://github.com/user-attachments/assets/8e6b55d1-331f-474f-9cd0-68a4b43a3866" />
 >
